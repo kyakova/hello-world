@@ -1,2 +1,2 @@
 # hello-world
-I am currently working on the settings if my Git profile.
+I am currently working on the settings of my Git profile.
